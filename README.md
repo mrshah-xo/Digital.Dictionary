@@ -12,11 +12,7 @@
 
 ## 📸 Preview
 
-| Hidden (edge strip) | Revealed (hover) |
-|---|---|
-| A glowing pill peeks from screen edge | Full glassmorphism card slides in smoothly |
-
-> 📹 **Video demo** — shows slide-in animation, TTS pronunciation, drag-to-reposition, and daily word rotation.
+> 📹 **Video demo** — (https://github.com/user-attachments/assets/6e875e9e-104b-40a8-8bcd-5598b05f21d5)
 
 ---
 
