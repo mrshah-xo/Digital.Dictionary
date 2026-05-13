@@ -280,7 +280,7 @@ See the [LICENSE](LICENSE) file for full terms.
 
 - **GitHub Issues** — bugs and feature requests
 - **GitHub Discussions** — questions and ideas
-- **Email** — yourname@email.com
+- **Email** — ayushshah8082@email.com
 
 ---
 
