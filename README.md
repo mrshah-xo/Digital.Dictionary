@@ -12,8 +12,9 @@
 
 ## 📸 Preview
 
-> 📹 **Video demo** — (https://github.com/user-attachments/assets/6e875e9e-104b-40a8-8bcd-5598b05f21d5)
+https://github.com/user-attachments/assets/6e875e9e-104b-40a8-8bcd-5598b05f21d5
 
+> Hover the glowing strip → card slides in → click 🔊 to hear pronunciation
 ---
 
 ## ✨ What It Does
