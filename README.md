@@ -12,13 +12,8 @@
 
 ## 📸 Preview
 
-<div align="center">
-  <br/>
-
   https://github.com/user-attachments/assets/6e875e9e-104b-40a8-8bcd-5598b05f21d5
 
-  <br/>
-</div>
 Hover the glowing strip → card slides in → click 🔊 to hear pronunciation
 ---
 
