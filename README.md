@@ -1,4 +1,4 @@
-# 🔤 Word of the Day — Premium Desktop Widget
+# 🔤 Digital Dictionary — Premium Desktop Widget
 
 > A sleek, Apple-inspired desktop widget for Windows that silently teaches you one new word every day — with natural neural voice pronunciation, glassmorphism UI, and zero friction.
 
